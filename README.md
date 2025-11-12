@@ -55,4 +55,5 @@ We will use STM32F411CE (the black pill) as our digital processor.
 
 - Instrumentation amplifier intro: https://www.youtube.com/watch?v=O0-iczIq1aU
 - INA333 review with AD620 suggestion: https://blog.robertelder.org/cjmcu-333-ina-333-instrumentation-amplifier/
+- A Designer’s Guide to Instrumentation Amplifiers (3rd Edition) https://www.analog.com/media/en/training-seminars/design-handbooks/designers-guide-instrument-amps-complete.pdf
 
